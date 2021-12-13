@@ -4,7 +4,7 @@
   <img src="https://github.com/sobolevn/awesome-cryptography/blob/master/awesome-crypto.png?raw=true" alt="Awesome Cryptography">
 </p>
 
-[![Follow us on twitter](https://img.shields.io/twitter/follow/awe_crypto_bot.svg?style=social&maxAge=0)](https://twitter.com/awe_crypto_bot)
+[![Follow us on twitter](https://cio.com.mx/wp-content/uploads/2018/05/criptografia-datos.jpg)
 
 A curated list of cryptography resources and links.
 
