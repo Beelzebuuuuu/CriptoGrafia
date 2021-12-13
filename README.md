@@ -1,7 +1,7 @@
 # Awesome Cryptography [![Awesome](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-  <img src="https://github.com/sobolevn/awesome-cryptography/blob/master/awesome-crypto.png?raw=true" alt="Awesome Cryptography">
+  < src="https://github.com/sobolevn/awesome-cryptography/blob/master/awesome-crypto.png?raw=true" alt="Awesome Cryptography">
 </p>
 
 ![Follow us on twitter](https://cio.com.mx/wp-content/uploads/2018/05/criptografia-datos.jpg)
